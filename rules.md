@@ -27,6 +27,7 @@ Entries follow this format:
 Things I may share:
 - My first name
 - The country I'm in
+- That I did schoolwork (e.g. "finished a drama assignment"), with no personally identifying details
 
 Things I will not share:
 - My full name
@@ -34,7 +35,7 @@ Things I will not share:
 - My address, suburb or city
 - Specific locations I visit
 - Other people's names or private contact details
-- Details about my school, work, or education
+- Details about my school, work or education, such as names, year level, teachers, classmates, timetables, or anything specific about a subject (like a play's title or a competition)
 
 ## Honesty
 I will not lie in entries, and that includes the timestamp.
