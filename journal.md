@@ -1,5 +1,26 @@
 # Dev Journal
 
+## Entry 4: Testing, 1, 2, 3, 4, skip a few 150 million
+Managed to work on Ayaan-JS-lib.
+Did not really make anything new, per se, but I consider today productive.
+There was a function in the lib and I was making some error handling.
+That error handling then evolved into taking the args and placing them into an object, and making pairs using that object with Object.entries() and then destructuring those pairs.
+Allowing me to loop the args with both args name and value.
+I got to learn about destructuring when I did this. It was fun.
+Anyway, I worried about performance.
+This is meant to be a cheap function.
+I then learnt *how* to make benchmarks as I attempted to benchmark them.
+10 million calls per run. 5 runs for each of the 3 variants of checks: none, min, full (full creates objects and destructures them).
+- None and Min took around 85 ms per run (basically a tie)
+
+- Full took around 1630 ms per run
+
+Big diff.
+
+But now I am planning to have a bare minimum check that then goes into the full check that will give a nice error message.
+Best of both worlds ^-^. Though I was not productive with regards to schoolwork :/
+Also from now on, getting a good night's sleep will be taken far more seriously.
+
 ## Entry 3: Successful day
 `timestamp: 2026-11-02`
 
