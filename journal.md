@@ -1,6 +1,8 @@
 # Dev Journal
 
 ## Entry 4: Testing, 1, 2, 3, 4, skip a few 150 million
+`timestamp: 2026-11-03`
+
 Managed to work on Ayaan-JS-lib.
 Did not really make anything new, per se, but I consider today productive.
 There was a function in the lib and I was making some error handling.
@@ -15,7 +17,7 @@ I then learnt *how* to make benchmarks as I attempted to benchmark them.
 
 - Full took around 1630 ms per run
 
-Big diff.
+Big diff. (I also made sure to give a few warm-up runs)
 
 But now I am planning to have a bare minimum check that then goes into the full check that will give a nice error message.
 Best of both worlds ^-^. Though I was not productive with regards to schoolwork :/
