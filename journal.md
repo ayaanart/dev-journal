@@ -1,5 +1,13 @@
 # Dev Journal
 
+## Entry 5: Tests, tests, tests, tests!
+`timestamp: 2026-11-04`
+All tests passed! But not for long.
+Having a few issues but I will tell you about that *tomorrow*.
+Today I feel locked in and want to work on the code.
+I decided to quickly do this and get back to coding.
+Forgetting to do a dev log because I was having too much fun coding is still considered forgetting!
+
 ## Entry 4: Testing, 1, 2, 3, 4, skip a few 150 million
 `timestamp: 2026-11-03`
 
