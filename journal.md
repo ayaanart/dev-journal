@@ -2,6 +2,7 @@
 
 ## Entry 5: Tests, tests, tests, tests!
 `timestamp: 2026-11-04`
+
 All tests passed! But not for long.
 Having a few issues but I will tell you about that *tomorrow*.
 Today I feel locked in and want to work on the code.
