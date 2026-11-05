@@ -1,5 +1,38 @@
 # Dev Journal
 
+## Entry 6: Building Foundation
+`timestamp: 2026-11-05`
+
+Progress has been steady. But I feel like it is kind of slow.
+I feel I have been building the foundation for *soooo looooooooong*.
+And I am not even done building the foundation! That said, I am quite close.
+Got a solid file structure and got my tests under control-ish.
+I also got a helper function for throwing non-finite numbers. It is called... "throwNonFiniteNumber".
+It gives a nice error message and can give TypeError or RangeError, but more costly.
+Remember in entry 4 about the benchmarks? throwNonFiniteNumber is the same logic of the slow one, just now in a helper function and it only runs if the function finds one of its args invalid after doing a cheap simple check.
+
+You know, I am now quite used to running tests and running local servers.
+Typed `python -m http.server 8000` far too many times, before I learnt the power of a hard refresh (CTRL+SHIFT+R).
+I do not need to stop the server and restart the local server everytime I make a change to the code.
+Doing that may not even run the new code! It could just be loaded from the browser’s cache (304 was a source of confusion).
+
+Then I looked at how many days I have been working on this lib. It has only been 2 days :/
+Today is the third day. Oh well.
+I think my days are stretching out because of all the other things happening besides school work.
+Got a few performances coming up soon.
+Got a few *assignments* coming up soon.
+My coding skill is > my skill at school work.
+The problem is that... I am a beginner programmer.
+Anyway, I am off to dream!
+```
+	Z
+   z
+/\.    /\
+  \/\ /  \
+  /  \    \
+ /    \    \
+```
+
 ## Entry 5: Tests, tests, tests, tests!
 `timestamp: 2026-11-04`
 
