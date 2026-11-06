@@ -1,5 +1,19 @@
 # Dev Journal
 
+## Entry 7: Promise to push ayaan-lib-js
+`timestamp: 2026-11-06`
+
+Guess what happened? STEADY PROGRESS!!!
+I finished all the tests for both throwNonFiniteNumber and adjustSeparation.
+Did a small refactor and split the file testing.js that stored all the testing tools into a folder called testing-tool.
+Each function now has its own file and JSDoc.
+Improved assertThrow to be able to check if *multiple* different pieces of text exist in the error message.
+That said, I did not really want to do coding today.
+It is just that I so badly wanted to finish this.
+Also I kind of want to go now and do other things :P
+Before I leave I want to make a promise to push ayaan-lib-js onto GitHub (and also make a repo for it!).
+So it should be public tomorrow ^-^
+
 ## Entry 6: Building Foundation
 `timestamp: 2026-11-05`
 
