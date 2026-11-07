@@ -1,5 +1,36 @@
 # Dev Journal
 
+## Entry 8: Failing to plan is planning to fail
+`timestamp: 2026-11-07`
+
+I pushed ayaan-lib-js onto GitHub. It is now public: `https://github.com/ayaanart/ayaan-lib-js`.
+Made tests for reflect() and also refactored it to use throwNonFiniteNumber.
+Unrelated, but feeling really good regarding my job; upsettingly, school does not provoke the same feeling :/
+
+Back to coding.
+For the time available, I should have done a lot more work.
+Not that much programming was done. That is okay. But not much of anything was done.
+Too busy having cheap fun.
+If I want to be successful in a lot of different things, then I need to start planning.
+Luckily, I have built a habit of writing in my dev journal and then taking action on what was written.
+This is not really planning, but I can use the fact that I am committed to this journal.
+So am I just going to say, "I will start planning from now on"?
+Very close...
+I will start planning from now on and write about my planning within the dev journal every day until I feel confident that planning is a habit.
+Even after planning is a habit, I will occasionally bring it up because it is part of my daily life now.
+```
+ .-.
+ | |
+ :::
+ |||
+ |||
+ |||
+ |||
+ ||| 
+ \ /
+  Y
+```
+
 ## Entry 7: Promise to push ayaan-lib-js
 `timestamp: 2026-11-06`
 
