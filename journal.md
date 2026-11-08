@@ -1,5 +1,32 @@
 # Dev Journal
 
+## Entry 9: Succeeding to plan is planning to succeed
+`timestamp: 2026-11-08`
+
+Created the Canvas class for ayaan-lib-js!
+Also, my little brother: I started teaching him how to code.
+He is starting with block coding.
+
+Now, about the planning...
+it did not go that well, but it did not go that horribly.
+Cleaning my desk was not planning, but I think it was useful.
+I wanted to create a *personalized* planning method involving my sketchbook.
+My sketchbook is written in every day so I thought it would be a good target.
+All that said, I did not make my planning method.
+If I had tried to make my planning method, then today I would have spent far more time thinking about planning rather than doing any actual planning.
+I decided to take a far more pragmatic approach.
+Sitting at my recently cleaned desk, I wrote out things I want to focus on in the near future.
+This helped me realize my habit of accumulating things without actually understanding how many things I had committed to.
+In other words, I was disorganized.
+Then I marked tasks that required urgency with an "!".
+There was only one task without an exclamation mark: ayaan-lib-js.
+For a bit, I must. Maybe in some free time I can work on it?
+I planned out how many hours I want to spend on each task this week, and on which day.
+I did not give ayaan-lib-js any time.
+To be honest, I am making this sound much more dramatic than it is :P
+Literally taking a break on a non-urgent project to focus on matters that need more attention right now.
+Will be back tomorrow ^-^
+
 ## Entry 8: Failing to plan is planning to fail
 `timestamp: 2026-11-07`
 
