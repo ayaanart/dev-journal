@@ -1,5 +1,12 @@
 # Dev Journal
 
+## Entry 10: I am kind of sick
+`timestamp: 2026-11-09`
+
+Achoo! Uuuuuuuhhhhh. I am going to bed and taking a nap, but I would like to say first: I failed today because I did not follow my plan.
+But I made a test for the Canvas class and made a test summary...
+Tomorrow will depend on how I feel tomorrow.
+
 ## Entry 9: Succeeding to plan is planning to succeed
 `timestamp: 2026-11-08`
 
