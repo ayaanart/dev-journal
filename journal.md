@@ -1,5 +1,18 @@
 # Dev Journal
 
+## Entry 11: Feeling better
+`timestamp: 2026-11-10`
+
+Kind of lazy to do an entry. Also the world feels whirly; my head feels like it has gained +2kgs.
+Worked on my drama evaluation assignment. Struggled. I also struggle while coding sometimes, but at least that is fun-ish.
+This just reminds me that writing an evaluation for school is not my strong suit.
+I wish I were good at it because school would be so much easier.
+Though I will be good at schoolwork next year.
+My friends also helped me with questions I had in regards to my drama evaluation.
+A small plan is forming in my mind on how I am to tackle next school year.
+This school year is ending soon.
+There are several things I need to change. Not going to talk about that now.
+
 ## Entry 10: I am kind of sick
 `timestamp: 2026-11-09`
 
