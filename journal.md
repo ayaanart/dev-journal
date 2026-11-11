@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 12: Quick
+`timestamp: 2026-11-11`
+
+Quick
+
 ## Entry 11: Feeling better
 `timestamp: 2026-11-10`
 
