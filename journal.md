@@ -1,5 +1,20 @@
 # Dev Journal
 
+## Entry 13: Quick? Why not slow and descriptive?
+`timestamp: 2026-11-12`
+
+My parents do not like me going on my laptop at night, which is what I have been doing to create my journal entries.
+For the last entry, "Quick", I had to slowly sneak to my laptop and *quickly* make the entry and push it.
+Writing at night on my laptop is something I also do not like.
+I have been given the instruction: "Do not go on your laptop at night", and I am in complete agreement.
+In Entry 4, I made a point to take my sleep far more seriously, but that is not what happened.
+Now my parents are forcing me not to work on my laptop at night, so I guess that problem is sorted.
+Well, why am I writing this at night, you may ask?
+(You probably did not, considering the only way to know that is to look at the timestamp for this git commit.)
+The answer is: "I forgot".
+I have quite a bit more to say, but I am ending it early to get more sleep.
+See you in the **morning**.
+
 ## Entry 12: Quick
 `timestamp: 2026-11-11`
 
