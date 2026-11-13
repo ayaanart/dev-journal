@@ -1,5 +1,26 @@
 # Dev Journal
 
+## Entry 14: :%s/unfocused/resolute/g
+`timestamp: 2026-11-13`
+
+Good afternoon, not morning but at least not night.
+2 days ago, I learnt how to use the substitute command in Neovim.
+Normally for my usage I would keep a "c" flag, but in the title I am just that confident.
+
+No more will I waste opportunities that could help me build a fulfilling life.
+My agenda requires time and focus.
+Wasted time can be bandaged but never fully healed; my current attitude is not going to work.
+If I come across something I dislike but need to do to achieve my goal, then I do it.
+
+There was a promise I made to my parents.
+"I will pause programming while I am in high school to focus on my studies."
+I do not know if they actually believe I will; regardless I will keep my future programming secret from them until I graduate.
+
+Lying: strangely, for some reason I find quite entertaining :>
+Like a game.
+Secretly and quietly, I work on my programming all while getting perfect grades?
+To do this I am going to start every morning writing a plan for just the current day.
+
 ## Entry 13: Quick? Why not slow and descriptive?
 `timestamp: 2026-11-12`
 
