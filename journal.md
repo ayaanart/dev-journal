@@ -1,5 +1,35 @@
 # Dev Journal
 
+
+## Entry 15: Roald Dahl, Leonardo da Vinci, Srinivasa Ramanujan and Terry A. Davis
+`timestamp: 2026-11-14`
+
+Good afternoon again.
+
+I promise tomorrow's entry is going to be about my dev work,
+but right now I want to say, "My drama evaluation is finished!"
+
+Now, about the title.
+Because I have not done much programming so far today, I decided to talk about these people, who for some reason keep appearing in my mind.
+Sometimes I wonder.
+Will I grow up to be some sort of mixture of them?
+I really hope not, if you know what I mean.
+There is plenty to love, but plenty that I want to stay far away from.
+I am not going into detail about them;
+this is more of an autobiography than a biography, and this entry would be far too long if I were to do them justice.
+That said, I will quickly note that the flaws of each are quite different, and grouping them is not something I would do.
+I did it because I happen to think about them often.
+
+Ideally, I want their favorable traits without the unfavorable.
+Plenty of people demonstrate that you can do this to some extent: Astrid Lindgren, Mary Somerville, Leonhard Euler, or Emmy Noether.
+All had issues to deal with or flaws, but are far from the examples in the title.
+Astrid Lindgren and Leonhard Euler are particularly good examples.
+Which is why I am aiming to have all the positives without the negatives, or at a minimum have my negatives be far smaller.
+Meaning, I must work on reducing flaws and not on ignoring them. 
+I am already trying to do this, but it has not been going that well.
+One I am most afraid of is not finishing projects.
+Anyway, back to work I gooooooooooo!
+
 ## Entry 14: :%s/unfocused/resolute/g
 `timestamp: 2026-11-13`
 
