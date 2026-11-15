@@ -1,5 +1,29 @@
 # Dev Journal
 
+## Entry 16: DOM-Mutualism
+`timestamp: 2026-11-15`
+
+I really did not like the name ayaan-lib-js.
+First, Ayaan is not even my name.
+My parents struggled to pick a name for me, but they did manage to narrow it down to 2 options.
+There was my name and Ayaan.
+Then they absolutely fumbled and chose my name over Ayaan!
+I am joking; I am not that mad.
+My real name is quite good, and I got to adopt Ayaan online.
+In fact, I am quite happy.
+Before I remembered this, I was struggling to pick a good name to use online.
+Interestingly, Ayaan means "gift from God" in Arabic,
+and it also feels like a gift because it gave me a really good name to use online.
+Originally, I did not intend to say Ayaan was a pen name because I thought, 'How good is a pen name that you do not even say is fake!'
+Then I remembered my no-lying rule :(
+I genuinely do not get why I am kind of drawn to lying.
+
+Anyway, back to dev work because I promised.
+Today I changed the lib's name to "DOM-Mutualism" instead of "ayaan-lib-js".
+That name was always a placeholder; the lib being named after what it actually does or its philosophy was ideal to me.
+I also worked on what this lib was actually trying to achieve.
+
+That is it for now; I will talk about the philosophy of the lib tomorrow.
 
 ## Entry 15: Roald Dahl, Leonardo da Vinci, Srinivasa Ramanujan and Terry A. Davis
 `timestamp: 2026-11-14`
