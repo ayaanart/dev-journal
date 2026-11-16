@@ -1,5 +1,12 @@
 # Dev Journal
 
+## Entry 17: Only if it were morning
+`timestamp: 2026-11-16`
+
+It is approaching nighttime.
+So see you later, but I would like to say I did a decent amount of dev work for the time I had today!
+https://github.com/ayaanart/DOM-Mutualism/blob/main/philosophy.md
+
 ## Entry 16: DOM-Mutualism
 `timestamp: 2026-11-15`
 
