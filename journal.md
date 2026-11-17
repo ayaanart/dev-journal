@@ -1,5 +1,20 @@
 # Dev Journal
 
+## Entry 18: Kind of sick again
+`timestamp: 2026-11-17`
+
+Let us make it snappy.
+After making a philosophy, I now had to decide what features to add to support it.
+To do this, I decided to do a little experiment:
+make a simple web game that follows the philosophy of the lib, without using the lib.
+If you do not understand what that means, it is because you are imagining the philosophy to be only about how the lib works.
+While that is there, a decent chunk is about how it believes the page itself should work.
+When I try building a page following that philosophy,
+then I get to experience the friction points myself, allowing me to design a lib to address them.
+I also keep a sketchbook open as I do this, recording my findings.
+Not done yet with the experiment.
+See you tomorrow.
+
 ## Entry 17: Only if it were morning
 `timestamp: 2026-11-16`
 
