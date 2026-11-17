@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 19: Busy today
+`timestamp: 2026-11-18`
+
+Do not have time for this today.
+
 ## Entry 18: Kind of sick again
 `timestamp: 2026-11-17`
 
