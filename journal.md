@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 20: Super good flow
+`timestamp: 2026-11-19`
+
+I got to keep it.
+
 ## Entry 19: Busy today
 `timestamp: 2026-11-18`
 
