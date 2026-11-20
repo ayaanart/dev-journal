@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 21: Nearly forgot
+`timestamp: 2026-11-20`
+
+I would say my experiment for my lib will be finished in 2 days.
+
 ## Entry 20: Super good flow
 `timestamp: 2026-11-19`
 
