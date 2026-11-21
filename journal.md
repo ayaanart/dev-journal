@@ -1,5 +1,13 @@
 # Dev Journal
 
+## Entry 22: Another short entry
+`timestamp: 2026-11-20`
+
+It is late.
+I did my HASS and english work.
+Worked on my experiment for a bit.
+I can say I will need more time; I can not do the promise of last entry.
+
 ## Entry 21: Nearly forgot
 `timestamp: 2026-11-20`
 
