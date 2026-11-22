@@ -1,7 +1,12 @@
 # Dev Journal
 
+## Entry 23: I promise next entry will be a proper entry
+`timestamp: 2026-11-22`
+
+I gave this entry in the title :p
+
 ## Entry 22: Another short entry
-`timestamp: 2026-11-20`
+`timestamp: 2026-11-21`
 
 It is late.
 I did my HASS and english work.
