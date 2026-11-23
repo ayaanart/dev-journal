@@ -1,5 +1,31 @@
 # Dev Journal
 
+## Entry 24: My brain is a kernel
+`timestamp: 2026-11-23`
+
+Here is a fun mindset for planning.
+Consider your body as hardware, you as a kernel, and tasks as applications.
+You have to manage all the processes and make sure you give each application time on the hardware.
+As the kernel, you have to be very organized so everything can be done.
+
+Finished my maths work by the way!
+Submitted late, but emailed my teacher apologizing, and asked if he could still grade it.
+
+The experiment for DOM-mutualism is going well;
+I have pages of notes that are ready to be dug into when the analyzing phase starts.
+```
+    .
+   / \
+  /   \
+ | +-+ |
+ | |O| |
+ | +-+ |
+ |     |
+  /   \
+  vvvvv
+   vvv
+```
+
 ## Entry 23: I promise next entry will be a proper entry
 `timestamp: 2026-11-22`
 
