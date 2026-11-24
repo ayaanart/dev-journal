@@ -1,5 +1,18 @@
 # Dev Journal
 
+## Entry 25: Private? Public? idk.
+`timestamp: 2026-11-24`
+
+The dev work did not progress that much.
+My school work on the other hand?
+That went well! 
+Never thought I would say that...
+Anyway the main thing I am wondering is if I should turn this into a private journal?
+I feel this journal is making too much info public?
+Maybe I will start a new public journal with more focus on dev work rather than personal things?
+What should it be?
+Private? Public? idk.
+
 ## Entry 24: My brain is a kernel
 `timestamp: 2026-11-23`
 
