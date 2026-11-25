@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 26: Not enough time
+`timestamp: 2026-11-25`
+
+I have to go quickly; I do not even have enough time to talk about what I want to: `.querySelector().`
+
 ## Entry 25: Private? Public? idk.
 `timestamp: 2026-11-24`
 
