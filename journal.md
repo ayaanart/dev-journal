@@ -1,5 +1,15 @@
 # Dev Journal
 
+## Entry 27: querySelector?
+`timestamp: 2026-11-26`
+
+I was just going to talk about how I find it annoying to write.
+Like genuinely it is sooo looooooong.
+I heard about aliasing it... but idk.
+Right now I keep using the full version.
+Also this is a note for me to think about.
+This entry felt a bit like a chore.
+
 ## Entry 26: Not enough time
 `timestamp: 2026-11-25`
 
