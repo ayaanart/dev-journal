@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 28: No time for this again :(
+`timestamp: 2026-11-27`
+
+I really need to carve out a time for this
+
 ## Entry 27: querySelector?
 `timestamp: 2026-11-26`
 
