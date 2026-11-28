@@ -1,5 +1,10 @@
 # Dev Journal
 
+## Entry 29: No dev work done today
+`timestamp: 2026-11-28`
+
+I took a break today.
+
 ## Entry 28: No time for this again :(
 `timestamp: 2026-11-27`
 
